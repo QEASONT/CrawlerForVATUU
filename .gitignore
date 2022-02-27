@@ -1,0 +1,5 @@
+*.ics
+*.png
+*.json
+*.xlsx
+/__pycache__
